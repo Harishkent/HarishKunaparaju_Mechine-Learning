@@ -1,0 +1,5 @@
+head(Sales)
+tail(Sales)
+summary(Sales)
+attach(Sales)
+plot(Radio,Newspaper,main = "scattlerpolot")
